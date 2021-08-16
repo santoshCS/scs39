@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scs39
+- 👋 Hi, I’m scsekhar
 - 👀 I’m interested in create a unique project.
 - 🌱 I’m currently learning and practicing own projects.
 - 💞️ I’m looking to collaborate on client and company
